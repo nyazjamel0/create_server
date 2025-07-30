@@ -8,7 +8,7 @@
       "name": "Launch Chrome",
       "request": "launch",
       "type": "chrome",
-      "file": "./pages/test_express.js"
+      "file": "./pages/index.html"
     },
     {
       "type": "node",
