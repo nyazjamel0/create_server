@@ -1,7 +1,7 @@
 142.251.32.46
 postman
 thunderclien
-npm init
+ , npm init
 https://www.npmjs.com/package/express
 
 about learn sql data base
