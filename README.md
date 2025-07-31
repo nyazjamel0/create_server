@@ -11,7 +11,7 @@ https://www.npmjs.com/package/express
 
 --INSERT INTO your_name_table (name) VALUES ("dara");
 
---DELETE FROM INTO your_name_table WHERE id=3;
+--DELETE FROM your_name_table WHERE id=3;
 
 --CREATE TABLE t(
 id INTEGER,
