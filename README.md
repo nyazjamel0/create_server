@@ -4,6 +4,8 @@ thunderclien
 npm init
 https://www.npmjs.com/package/express
 
+about learn sql data base
+
 --SELECT* FROM student WHERE age=20 AND name="kamaran";
 
 --UPDATE INTO your_name_table SET name="j" WHERE id=1;
