@@ -20,4 +20,8 @@ blu TEXT
 
 --drop TABLE t;
 
+--ALTER TABLE student ADD COLUMN age INTEGER;
+
+--ALTER TABLE student DROP COLUMN age;
+
 app DB brower sqlite
